@@ -42,7 +42,7 @@ This is a simple To-Do List application built using Python and Tkinter. The appl
 
 When you run the application, you will see a window like this:
 
-![To-Do List Application](screenshot.png)
+![To-Do List Application](https://cdn.discordapp.com/attachments/1243696439142387823/1249464298208755782/image.png?ex=666765ce&is=6666144e&hm=24d7c445781e0cd0c5d72b6720d887374270f16e72a8553d5a8495eefa734145&)
 
 ## Contributing
 
